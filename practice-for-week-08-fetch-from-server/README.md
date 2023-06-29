@@ -3,7 +3,7 @@
 This practice tests your knowledge of *traditional* server endpoints and 
 your use of the [fetch] method. Your fetch requests will interact with the server 
 from the HTML Templating practice. 
-
+ 
 ## Set up
 
 Clone the project from the [starter]. Run `npm  install`. Run the tests with
